@@ -4,3 +4,5 @@ and about to push it to the GIT HUB SCM
 added a chnge 
 This is teh new feature that am newly developing in evelopment Branch
 which is present only in development Branch
+this is the change that am adding to to the master branch
+so we are commiting  the cahgnes in master Branch
